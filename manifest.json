@@ -1,0 +1,22 @@
+{
+    "name": "C3-Tanol",
+    "short_name": "C3-Tanol",
+    "description": "Comparativo do preço da gasolina com o etanol.",
+    "start_url": "/c3tanol/index.html",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
+    "icons": [
+        {
+            "src": "/c3tanol/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/c3tanol/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+
+}
